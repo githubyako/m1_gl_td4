@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/yako/projects/gl_td3/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -O3 -o CMakeFiles/gl_td3.dir/person.cpp.o -c /home/yako/projects/gl_td3/person.cpp",
+  "file": "/home/yako/projects/gl_td3/person.cpp"
+},
+{
+  "directory": "/home/yako/projects/gl_td3/build",
+  "command": "/usr/bin/c++    -g   -std=c++11 -O3 -o CMakeFiles/gl_td3.dir/main.cpp.o -c /home/yako/projects/gl_td3/main.cpp",
+  "file": "/home/yako/projects/gl_td3/main.cpp"
+}
+]
